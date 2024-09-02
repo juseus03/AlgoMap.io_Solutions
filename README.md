@@ -1,2 +1,2 @@
 # AlgoMap.io_Solutions
- Solutions to the problems selected in algomap.io
+ Solutions to the problems selected in [algomap.io](https://algomap.io/)
